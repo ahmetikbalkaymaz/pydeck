@@ -29,7 +29,7 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "COLOR_0" : 0,
+                        "COLOR_0" : 255,
                         "POSITION" : 1,
                         "TEXCOORD_0" : 2,
                         "NORMAL" : 3
