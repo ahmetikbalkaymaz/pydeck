@@ -45,7 +45,7 @@
                 {
                     "attributes": {
                         "NORMAL": 1,
-                        "POSITION": 0,
+                        "POSITION": 1,
                         "TEXCOORD_0": 3
                     },
                     "indices": 0,
